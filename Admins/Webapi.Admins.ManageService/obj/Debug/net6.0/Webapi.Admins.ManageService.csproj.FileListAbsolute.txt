@@ -1,0 +1,62 @@
+C:\Users\Administrator\Desktop\网站项目\Admins\Webapi.Admins.ManageService\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Administrator\Desktop\网站项目\Admins\Webapi.Admins.ManageService\bin\Debug\net6.0\appsettings.json
+C:\Users\Administrator\Desktop\网站项目\Admins\Webapi.Admins.ManageService\bin\Debug\net6.0\Webapi.Admins.Main.deps.json
+C:\Users\Administrator\Desktop\网站项目\Admins\Webapi.Admins.ManageService\bin\Debug\net6.0\Webapi.Admins.Main.dll
+C:\Users\Administrator\Desktop\网站项目\Admins\Webapi.Admins.ManageService\bin\Debug\net6.0\Webapi.Admins.Main.pdb
+C:\Users\Administrator\Desktop\网站项目\Admins\Webapi.Admins.ManageService\bin\Debug\net6.0\Webapi.Core.dll
+C:\Users\Administrator\Desktop\网站项目\Admins\Webapi.Admins.ManageService\bin\Debug\net6.0\Webapi.Data.dll
+C:\Users\Administrator\Desktop\网站项目\Admins\Webapi.Admins.ManageService\bin\Debug\net6.0\Webapi.Framework.dll
+C:\Users\Administrator\Desktop\网站项目\Admins\Webapi.Admins.ManageService\bin\Debug\net6.0\Webapi.Services.dll
+C:\Users\Administrator\Desktop\网站项目\Admins\Webapi.Admins.ManageService\bin\Debug\net6.0\Webapi.Data.pdb
+C:\Users\Administrator\Desktop\网站项目\Admins\Webapi.Admins.ManageService\bin\Debug\net6.0\Webapi.Core.pdb
+C:\Users\Administrator\Desktop\网站项目\Admins\Webapi.Admins.ManageService\bin\Debug\net6.0\Webapi.Services.pdb
+C:\Users\Administrator\Desktop\网站项目\Admins\Webapi.Admins.ManageService\bin\Debug\net6.0\Webapi.Framework.pdb
+C:\Users\Administrator\Desktop\网站项目\Admins\Webapi.Admins.ManageService\obj\Debug\net6.0\Webapi.Admins.ManageService.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\网站项目\Admins\Webapi.Admins.ManageService\obj\Debug\net6.0\Webapi.Admins.ManageService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\网站项目\Admins\Webapi.Admins.ManageService\obj\Debug\net6.0\Webapi.Admins.ManageService.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\网站项目\Admins\Webapi.Admins.ManageService\obj\Debug\net6.0\Webapi.Admins.ManageService.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\网站项目\Admins\Webapi.Admins.ManageService\obj\Debug\net6.0\Webapi.Admins.ManageService.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\网站项目\Admins\Webapi.Admins.ManageService\obj\Debug\net6.0\staticwebassets\msbuild.Webapi.Admins.Main.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Administrator\Desktop\网站项目\Admins\Webapi.Admins.ManageService\obj\Debug\net6.0\staticwebassets\msbuild.build.Webapi.Admins.Main.props
+C:\Users\Administrator\Desktop\网站项目\Admins\Webapi.Admins.ManageService\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Webapi.Admins.Main.props
+C:\Users\Administrator\Desktop\网站项目\Admins\Webapi.Admins.ManageService\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Webapi.Admins.Main.props
+C:\Users\Administrator\Desktop\网站项目\Admins\Webapi.Admins.ManageService\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Administrator\Desktop\网站项目\Admins\Webapi.Admins.ManageService\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Administrator\Desktop\网站项目\Admins\Webapi.Admins.ManageService\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Administrator\Desktop\网站项目\Admins\Webapi.Admins.ManageService\obj\Debug\net6.0\scopedcss\bundle\Webapi.Admins.Main.styles.css
+C:\Users\Administrator\Desktop\网站项目\Admins\Webapi.Admins.ManageService\obj\Debug\net6.0\Webapi.Admins.ManageService.csproj.CopyComplete
+C:\Users\Administrator\Desktop\网站项目\Admins\Webapi.Admins.ManageService\obj\Debug\net6.0\Webapi.Admins.Main.dll
+C:\Users\Administrator\Desktop\网站项目\Admins\Webapi.Admins.ManageService\obj\Debug\net6.0\refint\Webapi.Admins.Main.dll
+C:\Users\Administrator\Desktop\网站项目\Admins\Webapi.Admins.ManageService\obj\Debug\net6.0\Webapi.Admins.Main.pdb
+C:\Users\Administrator\Desktop\网站项目\Admins\Webapi.Admins.ManageService\obj\Debug\net6.0\ref\Webapi.Admins.Main.dll
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Admins\Webapi.Admins.ManageService\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Admins\Webapi.Admins.ManageService\bin\Debug\net6.0\appsettings.json
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Admins\Webapi.Admins.ManageService\bin\Debug\net6.0\Webapi.Admins.Main.deps.json
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Admins\Webapi.Admins.ManageService\bin\Debug\net6.0\Webapi.Admins.Main.dll
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Admins\Webapi.Admins.ManageService\bin\Debug\net6.0\Webapi.Admins.Main.pdb
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Admins\Webapi.Admins.ManageService\bin\Debug\net6.0\Webapi.Core.dll
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Admins\Webapi.Admins.ManageService\bin\Debug\net6.0\Webapi.Data.dll
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Admins\Webapi.Admins.ManageService\bin\Debug\net6.0\Webapi.Framework.dll
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Admins\Webapi.Admins.ManageService\bin\Debug\net6.0\Webapi.Services.dll
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Admins\Webapi.Admins.ManageService\bin\Debug\net6.0\Webapi.Data.pdb
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Admins\Webapi.Admins.ManageService\bin\Debug\net6.0\Webapi.Core.pdb
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Admins\Webapi.Admins.ManageService\bin\Debug\net6.0\Webapi.Services.pdb
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Admins\Webapi.Admins.ManageService\bin\Debug\net6.0\Webapi.Framework.pdb
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Admins\Webapi.Admins.ManageService\obj\Debug\net6.0\Webapi.Admins.ManageService.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Admins\Webapi.Admins.ManageService\obj\Debug\net6.0\Webapi.Admins.ManageService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Admins\Webapi.Admins.ManageService\obj\Debug\net6.0\Webapi.Admins.ManageService.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Admins\Webapi.Admins.ManageService\obj\Debug\net6.0\Webapi.Admins.ManageService.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Admins\Webapi.Admins.ManageService\obj\Debug\net6.0\Webapi.Admins.ManageService.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Admins\Webapi.Admins.ManageService\obj\Debug\net6.0\staticwebassets\msbuild.Webapi.Admins.Main.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Admins\Webapi.Admins.ManageService\obj\Debug\net6.0\staticwebassets\msbuild.build.Webapi.Admins.Main.props
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Admins\Webapi.Admins.ManageService\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Webapi.Admins.Main.props
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Admins\Webapi.Admins.ManageService\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Webapi.Admins.Main.props
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Admins\Webapi.Admins.ManageService\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Admins\Webapi.Admins.ManageService\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Admins\Webapi.Admins.ManageService\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Admins\Webapi.Admins.ManageService\obj\Debug\net6.0\scopedcss\bundle\Webapi.Admins.Main.styles.css
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Admins\Webapi.Admins.ManageService\obj\Debug\net6.0\Webapi.Admins.ManageService.csproj.CopyComplete
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Admins\Webapi.Admins.ManageService\obj\Debug\net6.0\Webapi.Admins.Main.dll
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Admins\Webapi.Admins.ManageService\obj\Debug\net6.0\refint\Webapi.Admins.Main.dll
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Admins\Webapi.Admins.ManageService\obj\Debug\net6.0\Webapi.Admins.Main.pdb
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Admins\Webapi.Admins.ManageService\obj\Debug\net6.0\ref\Webapi.Admins.Main.dll

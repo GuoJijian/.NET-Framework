@@ -1,0 +1,40 @@
+C:\Users\Administrator\Desktop\网站项目\Libs\Webapi.Core\bin\Debug\net6.0\Webapi.Core.deps.json
+C:\Users\Administrator\Desktop\网站项目\Libs\Webapi.Core\bin\Debug\net6.0\Webapi.Core.dll
+C:\Users\Administrator\Desktop\网站项目\Libs\Webapi.Core\bin\Debug\net6.0\Webapi.Core.pdb
+C:\Users\Administrator\Desktop\网站项目\Libs\Webapi.Core\obj\Debug\net6.0\Webapi.Core.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\网站项目\Libs\Webapi.Core\obj\Debug\net6.0\Webapi.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\网站项目\Libs\Webapi.Core\obj\Debug\net6.0\Webapi.Core.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\网站项目\Libs\Webapi.Core\obj\Debug\net6.0\Webapi.Core.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\网站项目\Libs\Webapi.Core\obj\Debug\net6.0\Webapi.Core.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\网站项目\Libs\Webapi.Core\obj\Debug\net6.0\staticwebassets\msbuild.Webapi.Core.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Administrator\Desktop\网站项目\Libs\Webapi.Core\obj\Debug\net6.0\staticwebassets\msbuild.build.Webapi.Core.props
+C:\Users\Administrator\Desktop\网站项目\Libs\Webapi.Core\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Webapi.Core.props
+C:\Users\Administrator\Desktop\网站项目\Libs\Webapi.Core\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Webapi.Core.props
+C:\Users\Administrator\Desktop\网站项目\Libs\Webapi.Core\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Administrator\Desktop\网站项目\Libs\Webapi.Core\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Administrator\Desktop\网站项目\Libs\Webapi.Core\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Administrator\Desktop\网站项目\Libs\Webapi.Core\obj\Debug\net6.0\scopedcss\bundle\Webapi.Core.styles.css
+C:\Users\Administrator\Desktop\网站项目\Libs\Webapi.Core\obj\Debug\net6.0\Webapi.Core.dll
+C:\Users\Administrator\Desktop\网站项目\Libs\Webapi.Core\obj\Debug\net6.0\refint\Webapi.Core.dll
+C:\Users\Administrator\Desktop\网站项目\Libs\Webapi.Core\obj\Debug\net6.0\Webapi.Core.pdb
+C:\Users\Administrator\Desktop\网站项目\Libs\Webapi.Core\obj\Debug\net6.0\ref\Webapi.Core.dll
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Libs\Webapi.Core\bin\Debug\net6.0\Webapi.Core.deps.json
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Libs\Webapi.Core\bin\Debug\net6.0\Webapi.Core.dll
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Libs\Webapi.Core\bin\Debug\net6.0\Webapi.Core.pdb
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Libs\Webapi.Core\obj\Debug\net6.0\Webapi.Core.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Libs\Webapi.Core\obj\Debug\net6.0\Webapi.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Libs\Webapi.Core\obj\Debug\net6.0\Webapi.Core.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Libs\Webapi.Core\obj\Debug\net6.0\Webapi.Core.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Libs\Webapi.Core\obj\Debug\net6.0\Webapi.Core.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Libs\Webapi.Core\obj\Debug\net6.0\staticwebassets\msbuild.Webapi.Core.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Libs\Webapi.Core\obj\Debug\net6.0\staticwebassets\msbuild.build.Webapi.Core.props
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Libs\Webapi.Core\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Webapi.Core.props
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Libs\Webapi.Core\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Webapi.Core.props
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Libs\Webapi.Core\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Libs\Webapi.Core\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Libs\Webapi.Core\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Libs\Webapi.Core\obj\Debug\net6.0\scopedcss\bundle\Webapi.Core.styles.css
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Libs\Webapi.Core\obj\Debug\net6.0\Webapi.Core.dll
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Libs\Webapi.Core\obj\Debug\net6.0\refint\Webapi.Core.dll
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Libs\Webapi.Core\obj\Debug\net6.0\Webapi.Core.pdb
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Libs\Webapi.Core\obj\Debug\net6.0\ref\Webapi.Core.dll

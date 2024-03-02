@@ -1,0 +1,34 @@
+C:\Users\Administrator\Desktop\网站项目\Data\Webapi.Data.SQLite\bin\Debug\net6.0\Webapi.Data.SQLite.deps.json
+C:\Users\Administrator\Desktop\网站项目\Data\Webapi.Data.SQLite\bin\Debug\net6.0\Webapi.Data.SQLite.dll
+C:\Users\Administrator\Desktop\网站项目\Data\Webapi.Data.SQLite\bin\Debug\net6.0\Webapi.Data.SQLite.pdb
+C:\Users\Administrator\Desktop\网站项目\Data\Webapi.Data.SQLite\bin\Debug\net6.0\Webapi.Core.dll
+C:\Users\Administrator\Desktop\网站项目\Data\Webapi.Data.SQLite\bin\Debug\net6.0\Webapi.Data.dll
+C:\Users\Administrator\Desktop\网站项目\Data\Webapi.Data.SQLite\bin\Debug\net6.0\Webapi.Core.pdb
+C:\Users\Administrator\Desktop\网站项目\Data\Webapi.Data.SQLite\bin\Debug\net6.0\Webapi.Data.pdb
+C:\Users\Administrator\Desktop\网站项目\Data\Webapi.Data.SQLite\obj\Debug\net6.0\Webapi.Data.SQLite.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\网站项目\Data\Webapi.Data.SQLite\obj\Debug\net6.0\Webapi.Data.SQLite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\网站项目\Data\Webapi.Data.SQLite\obj\Debug\net6.0\Webapi.Data.SQLite.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\网站项目\Data\Webapi.Data.SQLite\obj\Debug\net6.0\Webapi.Data.SQLite.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\网站项目\Data\Webapi.Data.SQLite\obj\Debug\net6.0\Webapi.Data.SQLite.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\网站项目\Data\Webapi.Data.SQLite\obj\Debug\net6.0\Webapi.Data.SQLite.csproj.CopyComplete
+C:\Users\Administrator\Desktop\网站项目\Data\Webapi.Data.SQLite\obj\Debug\net6.0\Webapi.Data.SQLite.dll
+C:\Users\Administrator\Desktop\网站项目\Data\Webapi.Data.SQLite\obj\Debug\net6.0\refint\Webapi.Data.SQLite.dll
+C:\Users\Administrator\Desktop\网站项目\Data\Webapi.Data.SQLite\obj\Debug\net6.0\Webapi.Data.SQLite.pdb
+C:\Users\Administrator\Desktop\网站项目\Data\Webapi.Data.SQLite\obj\Debug\net6.0\ref\Webapi.Data.SQLite.dll
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Data\Webapi.Data.SQLite\bin\Debug\net6.0\Webapi.Data.SQLite.deps.json
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Data\Webapi.Data.SQLite\bin\Debug\net6.0\Webapi.Data.SQLite.dll
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Data\Webapi.Data.SQLite\bin\Debug\net6.0\Webapi.Data.SQLite.pdb
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Data\Webapi.Data.SQLite\bin\Debug\net6.0\Webapi.Core.dll
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Data\Webapi.Data.SQLite\bin\Debug\net6.0\Webapi.Data.dll
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Data\Webapi.Data.SQLite\bin\Debug\net6.0\Webapi.Core.pdb
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Data\Webapi.Data.SQLite\bin\Debug\net6.0\Webapi.Data.pdb
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Data\Webapi.Data.SQLite\obj\Debug\net6.0\Webapi.Data.SQLite.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Data\Webapi.Data.SQLite\obj\Debug\net6.0\Webapi.Data.SQLite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Data\Webapi.Data.SQLite\obj\Debug\net6.0\Webapi.Data.SQLite.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Data\Webapi.Data.SQLite\obj\Debug\net6.0\Webapi.Data.SQLite.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Data\Webapi.Data.SQLite\obj\Debug\net6.0\Webapi.Data.SQLite.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Data\Webapi.Data.SQLite\obj\Debug\net6.0\Webapi.Data.SQLite.csproj.CopyComplete
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Data\Webapi.Data.SQLite\obj\Debug\net6.0\Webapi.Data.SQLite.dll
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Data\Webapi.Data.SQLite\obj\Debug\net6.0\refint\Webapi.Data.SQLite.dll
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Data\Webapi.Data.SQLite\obj\Debug\net6.0\Webapi.Data.SQLite.pdb
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Data\Webapi.Data.SQLite\obj\Debug\net6.0\ref\Webapi.Data.SQLite.dll

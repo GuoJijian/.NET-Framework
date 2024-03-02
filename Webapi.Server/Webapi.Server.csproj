@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="testdb.db" />
+  </ItemGroup>
+
+  <ItemGroup>
+	  <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="6.0.1" />
+	  <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+    <ProjectReference Include="..\Admins\Webapi.Admins.ManageService\Webapi.Admins.ManageService.csproj" />
+    <ProjectReference Include="..\Data\Webapi.Data.MySQL\Webapi.Data.MySQL.csproj" />
+    <ProjectReference Include="..\Data\Webapi.Data.SQLite\Webapi.Data.SQLite.csproj" />
+    <ProjectReference Include="..\Libs\Webapi.Core\Webapi.Core.csproj" />
+    <ProjectReference Include="..\Libs\Webapi.Services\Webapi.Services.csproj" />
+    <ProjectReference Include="..\Webapi.Framework\Webapi.Framework.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Properties\PublishProfiles\" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,5 @@
+#Version: 1.0
+#Start-Date: 2024-02-23 05:39:02
+#Fields: date time c-ip cs-username s-computername s-ip s-port cs-method cs-uri-stem cs-uri-query sc-status time-taken cs-version cs-host cs(User-Agent) cs(Cookie) cs(Referer)
+2024-02-23 05:39:01 ::ffff:127.0.0.1 - DEV-3 ::ffff:127.0.0.1 5014 GET /swagger/index.html - 200 224.3975 HTTP/1.1 127.0.0.1:5014 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/109.0.0.0+Safari/537.36 - -
+2024-02-23 05:39:01 ::ffff:127.0.0.1 - DEV-3 ::ffff:127.0.0.1 5014 GET /swagger/v1/swagger.json - 200 85.9215 HTTP/1.1 127.0.0.1:5014 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/109.0.0.0+Safari/537.36 - http://127.0.0.1:5014/swagger/index.html

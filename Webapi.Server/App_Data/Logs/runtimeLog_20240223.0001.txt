@@ -1,0 +1,32 @@
+13:46:13 3200040	[Information]	[3], 	Start processing HTTP request POST http://127.0.0.1/scheduletask/runtask
+13:46:13 3320040	[Trace]	[3], 	Request Headers:
+Content-Type: application/x-www-form-urlencoded
+
+13:46:13 3330040	[Information]	[3], 	Sending HTTP request POST http://127.0.0.1/scheduletask/runtask
+13:46:13 3330040	[Trace]	[3], 	Request Headers:
+Content-Type: application/x-www-form-urlencoded
+
+13:46:14 1770040	[Information]	[13], 	Start processing HTTP request GET http://127.0.0.1/keepalive/index
+13:46:14 1770040	[Trace]	[13], 	Request Headers:
+
+13:46:14 1770040	[Information]	[13], 	Sending HTTP request GET http://127.0.0.1/keepalive/index
+13:46:14 1770040	[Trace]	[13], 	Request Headers:
+
+13:46:14 2030040	[Information]	[16], 	Received HTTP response headers after 21.6506ms - 200
+13:46:14 2040040	[Trace]	[16], 	Response Headers:
+Date: Fri, 23 Feb 2024 05:46:13 GMT
+Content-Length: 0
+
+13:46:14 2050040	[Information]	[16], 	End processing HTTP request after 27.7808ms - 200
+13:46:14 2060040	[Trace]	[16], 	Response Headers:
+Date: Fri, 23 Feb 2024 05:46:13 GMT
+Content-Length: 0
+
+13:46:14 2300040	[Information]	[6], 	Received HTTP response headers after 896.679ms - 204
+13:46:14 2300040	[Trace]	[6], 	Response Headers:
+Date: Fri, 23 Feb 2024 05:46:13 GMT
+
+13:46:14 2300040	[Information]	[6], 	End processing HTTP request after 926.4913ms - 204
+13:46:14 2300040	[Trace]	[6], 	Response Headers:
+Date: Fri, 23 Feb 2024 05:46:13 GMT
+

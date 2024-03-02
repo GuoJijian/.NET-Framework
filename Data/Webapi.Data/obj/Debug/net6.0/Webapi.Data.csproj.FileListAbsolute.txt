@@ -1,0 +1,30 @@
+C:\Users\Administrator\Desktop\网站项目\Data\Webapi.Data\bin\Debug\net6.0\Webapi.Data.deps.json
+C:\Users\Administrator\Desktop\网站项目\Data\Webapi.Data\bin\Debug\net6.0\Webapi.Data.dll
+C:\Users\Administrator\Desktop\网站项目\Data\Webapi.Data\bin\Debug\net6.0\Webapi.Data.pdb
+C:\Users\Administrator\Desktop\网站项目\Data\Webapi.Data\bin\Debug\net6.0\Webapi.Core.dll
+C:\Users\Administrator\Desktop\网站项目\Data\Webapi.Data\bin\Debug\net6.0\Webapi.Core.pdb
+C:\Users\Administrator\Desktop\网站项目\Data\Webapi.Data\obj\Debug\net6.0\Webapi.Data.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\网站项目\Data\Webapi.Data\obj\Debug\net6.0\Webapi.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\网站项目\Data\Webapi.Data\obj\Debug\net6.0\Webapi.Data.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\网站项目\Data\Webapi.Data\obj\Debug\net6.0\Webapi.Data.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\网站项目\Data\Webapi.Data\obj\Debug\net6.0\Webapi.Data.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\网站项目\Data\Webapi.Data\obj\Debug\net6.0\Webapi.Data.csproj.CopyComplete
+C:\Users\Administrator\Desktop\网站项目\Data\Webapi.Data\obj\Debug\net6.0\Webapi.Data.dll
+C:\Users\Administrator\Desktop\网站项目\Data\Webapi.Data\obj\Debug\net6.0\refint\Webapi.Data.dll
+C:\Users\Administrator\Desktop\网站项目\Data\Webapi.Data\obj\Debug\net6.0\Webapi.Data.pdb
+C:\Users\Administrator\Desktop\网站项目\Data\Webapi.Data\obj\Debug\net6.0\ref\Webapi.Data.dll
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Data\Webapi.Data\bin\Debug\net6.0\Webapi.Data.deps.json
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Data\Webapi.Data\bin\Debug\net6.0\Webapi.Data.dll
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Data\Webapi.Data\bin\Debug\net6.0\Webapi.Data.pdb
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Data\Webapi.Data\bin\Debug\net6.0\Webapi.Core.dll
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Data\Webapi.Data\bin\Debug\net6.0\Webapi.Core.pdb
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Data\Webapi.Data\obj\Debug\net6.0\Webapi.Data.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Data\Webapi.Data\obj\Debug\net6.0\Webapi.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Data\Webapi.Data\obj\Debug\net6.0\Webapi.Data.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Data\Webapi.Data\obj\Debug\net6.0\Webapi.Data.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Data\Webapi.Data\obj\Debug\net6.0\Webapi.Data.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Data\Webapi.Data\obj\Debug\net6.0\Webapi.Data.csproj.CopyComplete
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Data\Webapi.Data\obj\Debug\net6.0\Webapi.Data.dll
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Data\Webapi.Data\obj\Debug\net6.0\refint\Webapi.Data.dll
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Data\Webapi.Data\obj\Debug\net6.0\Webapi.Data.pdb
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Data\Webapi.Data\obj\Debug\net6.0\ref\Webapi.Data.dll

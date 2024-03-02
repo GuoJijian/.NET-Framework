@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <AssemblyName>Webapi.Admins.Main</AssemblyName>
+    <RootNamespace>Webapi.Admins.Main</RootNamespace>
+    <OutputType>Library</OutputType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Data\Webapi.Data\Webapi.Data.csproj" />
+    <ProjectReference Include="..\..\Libs\Webapi.Core\Webapi.Core.csproj" />
+    <ProjectReference Include="..\..\Libs\Webapi.Services\Webapi.Services.csproj" />
+    <ProjectReference Include="..\..\Webapi.Framework\Webapi.Framework.csproj" />
+  </ItemGroup>
+
+</Project>

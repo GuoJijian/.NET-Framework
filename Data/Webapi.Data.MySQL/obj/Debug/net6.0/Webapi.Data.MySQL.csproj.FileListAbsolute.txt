@@ -1,0 +1,34 @@
+C:\Users\Administrator\Desktop\网站项目\Data\Webapi.Data.MySQL\bin\Debug\net6.0\Webapi.Data.MySQL.deps.json
+C:\Users\Administrator\Desktop\网站项目\Data\Webapi.Data.MySQL\bin\Debug\net6.0\Webapi.Data.MySQL.dll
+C:\Users\Administrator\Desktop\网站项目\Data\Webapi.Data.MySQL\bin\Debug\net6.0\Webapi.Data.MySQL.pdb
+C:\Users\Administrator\Desktop\网站项目\Data\Webapi.Data.MySQL\bin\Debug\net6.0\Webapi.Core.dll
+C:\Users\Administrator\Desktop\网站项目\Data\Webapi.Data.MySQL\bin\Debug\net6.0\Webapi.Data.dll
+C:\Users\Administrator\Desktop\网站项目\Data\Webapi.Data.MySQL\bin\Debug\net6.0\Webapi.Core.pdb
+C:\Users\Administrator\Desktop\网站项目\Data\Webapi.Data.MySQL\bin\Debug\net6.0\Webapi.Data.pdb
+C:\Users\Administrator\Desktop\网站项目\Data\Webapi.Data.MySQL\obj\Debug\net6.0\Webapi.Data.MySQL.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\网站项目\Data\Webapi.Data.MySQL\obj\Debug\net6.0\Webapi.Data.MySQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\网站项目\Data\Webapi.Data.MySQL\obj\Debug\net6.0\Webapi.Data.MySQL.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\网站项目\Data\Webapi.Data.MySQL\obj\Debug\net6.0\Webapi.Data.MySQL.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\网站项目\Data\Webapi.Data.MySQL\obj\Debug\net6.0\Webapi.Data.MySQL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\网站项目\Data\Webapi.Data.MySQL\obj\Debug\net6.0\Webapi.Data.MySQL.csproj.CopyComplete
+C:\Users\Administrator\Desktop\网站项目\Data\Webapi.Data.MySQL\obj\Debug\net6.0\Webapi.Data.MySQL.dll
+C:\Users\Administrator\Desktop\网站项目\Data\Webapi.Data.MySQL\obj\Debug\net6.0\refint\Webapi.Data.MySQL.dll
+C:\Users\Administrator\Desktop\网站项目\Data\Webapi.Data.MySQL\obj\Debug\net6.0\Webapi.Data.MySQL.pdb
+C:\Users\Administrator\Desktop\网站项目\Data\Webapi.Data.MySQL\obj\Debug\net6.0\ref\Webapi.Data.MySQL.dll
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Data\Webapi.Data.MySQL\bin\Debug\net6.0\Webapi.Data.MySQL.deps.json
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Data\Webapi.Data.MySQL\bin\Debug\net6.0\Webapi.Data.MySQL.dll
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Data\Webapi.Data.MySQL\bin\Debug\net6.0\Webapi.Data.MySQL.pdb
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Data\Webapi.Data.MySQL\bin\Debug\net6.0\Webapi.Core.dll
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Data\Webapi.Data.MySQL\bin\Debug\net6.0\Webapi.Data.dll
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Data\Webapi.Data.MySQL\bin\Debug\net6.0\Webapi.Core.pdb
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Data\Webapi.Data.MySQL\bin\Debug\net6.0\Webapi.Data.pdb
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Data\Webapi.Data.MySQL\obj\Debug\net6.0\Webapi.Data.MySQL.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Data\Webapi.Data.MySQL\obj\Debug\net6.0\Webapi.Data.MySQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Data\Webapi.Data.MySQL\obj\Debug\net6.0\Webapi.Data.MySQL.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Data\Webapi.Data.MySQL\obj\Debug\net6.0\Webapi.Data.MySQL.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Data\Webapi.Data.MySQL\obj\Debug\net6.0\Webapi.Data.MySQL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Data\Webapi.Data.MySQL\obj\Debug\net6.0\Webapi.Data.MySQL.csproj.CopyComplete
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Data\Webapi.Data.MySQL\obj\Debug\net6.0\Webapi.Data.MySQL.dll
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Data\Webapi.Data.MySQL\obj\Debug\net6.0\refint\Webapi.Data.MySQL.dll
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Data\Webapi.Data.MySQL\obj\Debug\net6.0\Webapi.Data.MySQL.pdb
+C:\Users\Administrator\Desktop\ASP.NET Core + EF\Data\Webapi.Data.MySQL\obj\Debug\net6.0\ref\Webapi.Data.MySQL.dll
